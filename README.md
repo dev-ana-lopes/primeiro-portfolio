@@ -2,9 +2,9 @@
 Este é o código-fonte do meu portfólio digital, onde apresento minhas habilidades como desenvolvedora.
 
 <h2> Conteúdo </h2>
-Sobre Mim
-Contato
-Foto de Perfil
+* Sobre Mim
+* Contato
+* Foto de Perfil
 
 <h2> Sobre Mim </h2>
 Olá! Eu sou Ana Julia, uma desenvolvedora apaixonada por construir soluções inovadoras. Transformo conceitos em realidade através de código confiável e envolvente. Ofereço experiências cativantes e soluções dinâmicas que deixam uma marca duradoura nos produtos. Minha paixão pelo desenvolvimento me mantém em busca constante de novos desafios e tecnologias de ponta.
