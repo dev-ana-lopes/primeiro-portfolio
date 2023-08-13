@@ -1,0 +1,54 @@
+body {
+    background-color: #000000;
+    color: #f4f4f9;
+}
+
+/* marcação dos acessos de contato parecidos com um botão*/
+a {
+    display: inline-block;
+    background-color: #586f7c;
+    color: #f4f4f9;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+strong {
+    color: #b8dbd9;
+}
+
+main {
+    margin-top: 150px; 
+    margin-bottom: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    justify-content: center;
+}
+
+img {
+    width: 400px;
+    height: 460px;
+}
+
+/* configuração usada para grid de duas colunas */
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, auto); 
+    column-gap: 1px;
+}
+
+.formatCard {
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+}
+
+.centralizar {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+
+.paragrafo-justificado {
+    text-align: justify;
+}
